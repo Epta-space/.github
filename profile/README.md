@@ -7,8 +7,7 @@ Aqui você encontra informações essenciais sobre nossos projetos, repositório
 
 ## 📚 Sobre Nós
 
-A **Equipe De Propulsão E Tecnologia Aeroespacial** dedica-se ao desenvolvimento de soluções inovadoras para o setor aeroespacial.  
-Nossa missão é contribuir para o avanço tecnológico por meio de projetos colaborativos, pesquisa aplicada e desenvolvimento de sistemas de alta performance.
+A **Equipe De Propulsão E Tecnologia Aeroespacial** é uma equipe de extensão associada a Universidade Federal De Uberlândia. Seu propósito é o desenvolvimento de tecnologias e participações em competições de lançamentos em foguetes. Além disso, a equipe conta com uma vasta quantidade de áreas.
 
 ---
 
@@ -16,29 +15,19 @@ Nossa missão é contribuir para o avanço tecnológico por meio de projetos col
 
 A seguir, alguns dos repositórios que consideramos essenciais para nossos projetos:
 
-| Repositório           | Descrição                                                          | Link                                                             |
-|-----------------------|--------------------------------------------------------------------|------------------------------------------------------------------|
-| **Projeto-X**         | Desenvolvimento de sistemas de propulsão para aplicações espaciais.| [Acessar](https://github.com/Equipe-De-Propulsao/Projeto-X)       |
-| **Tech-Aero**         | Ferramentas e tecnologias aplicadas à indústria aeroespacial.      | [Acessar](https://github.com/Equipe-De-Propulsao/Tech-Aero)       |
-| **Simulador-SPAC**    | Simulador para testes de voo e análise de trajetórias.             | [Acessar](https://github.com/Equipe-De-Propulsao/Simulador-SPAC)    |
-
-> **Observação:** Os nomes e links dos repositórios acima são exemplos. Atualize conforme os repositórios reais da organização.
-
----
-
-## 🔧 Ferramentas Interativas
-
-- **Badges Dinâmicos:** Utilize badges para exibir o status do build, cobertura de testes e outras métricas diretamente no README.
-- **GitHub Actions:** Configure automações para CI/CD, garantindo que cada commit seja validado.
-- **GitHub Projects:** Acompanhe o andamento dos projetos e organize tarefas com quadros interativos.
+| Repositório               | Descrição                                                  | Link                                                           |
+|---------------------------|------------------------------------------------------------|----------------------------------------------------------------|
+| **Epta Rocoker Enginner** | Jogo Recreativo Desenvolvido Pela área Entertainment.      | [Acessar](https://github.com/Epta-space/Epta-Jogo-Esteira)     |
+| **Epta Rocket Tycoon**    | Jogo Recreativo Desenvolvido Pela área Entertainment.      | [Acessar](https://github.com/Epta-space/Epta-Rocket-Tycoon)    |
+| **Epta Space Program**    | Jogo desenvolvido pela área Entertainment.                 | [Acessar](https://github.com/Epta-space/EPTA_SPACE_PROGRAM)    |
 
 ---
 
 ## 📈 Métricas e Estatísticas
 
 Para acompanhar a atividade e evolução dos nossos projetos, confira:
-- [Gráfico de Contribuições](https://github.com/Equipe-De-Propulsao?tab=overview)
-- [Insights de Repositórios](https://github.com/Equipe-De-Propulsao?tab=insights)
+- [Gráfico de Contribuições](https://github.com/Epta-space?tab=overview)
+- [Insights de Repositórios](https://github.com/Epta-space?tab=insights)
 
 ---
 
@@ -46,10 +35,7 @@ Para acompanhar a atividade e evolução dos nossos projetos, confira:
 
 Tem interesse em saber mais ou colaborar com nossos projetos? Entre em contato:
 
-- **Email:** contato@equipepropulsaoaeroespacial.com  
-- **LinkedIn:** [Nossa Página](https://www.linkedin.com/company/equipe-propulsao-aeroespacial)  
-- **Twitter:** [@EquipeAero](https://twitter.com/EquipeAero)
+- **Email:** contato.epta.ufu@gmail.com  
+- **LinkedIn:** [Nossa Página](https://www.linkedin.com/company/equipe-de-propuls%C3%A3o-e-tecnologia-aeroespacial-epta)  
 
----
 
-*Este README é um exemplo personalizável. Atualize as informações, links e repositórios conforme as necessidades e dados reais da organização.*
